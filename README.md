@@ -1,2 +1,2 @@
 # skillbridge-carrier-mapper
-AI powered career mapper for studentss
+AI powered career mapper for students
